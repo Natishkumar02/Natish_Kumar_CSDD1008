@@ -10,7 +10,7 @@ This program is a simple Go application that prints a greeting message. The gree
    ```sh
    git clone https://github.com/Natishkumar02.git
 
-2. cd your-repository-name
+2. cd Natish_Kumar_CSDD1008
 
 3. go run main.go
 
